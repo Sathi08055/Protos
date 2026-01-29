@@ -16,6 +16,18 @@ Key objectives:
 - Provide reliable and diverse food composition data
 - Enable users to track and improve dietary habits
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8250907d-b721-46bf-8923-4a885b254958" width="280"/>
+  <img src="https://github.com/user-attachments/assets/0020becb-142e-42c7-8106-165ac7a2d34f" width="280"/>
+  <img src="https://github.com/user-attachments/assets/c9310e8f-a02a-428e-a8da-104264b715be" width="280"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3d56541-3573-4ce9-ab02-0fedbad82ab3" width="280"/>
+  <img src="https://github.com/user-attachments/assets/6895bcdc-edf5-4c71-8cbf-72dfe36d02a2" width="280"/>
+</p>
+
+
 ---
 
 ## Educational Content
