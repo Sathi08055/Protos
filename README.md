@@ -49,6 +49,7 @@ The app includes structured educational material covering:
 - Macronutrients: carbohydrates, fats, and proteins
 - Micronutrients: vitamins and minerals
 - Principles of balanced diets
+- Amino Acid Profiles.
 
 ### Indian Ingredients
 - Detailed nutrition data for commonly used Indian ingredients
