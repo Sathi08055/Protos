@@ -1,0 +1,55 @@
+name: testing
+description: "Protos - Your Protein Guide"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_nav_bar: ^5.0.7
+  fl_chart: ^1.0.0
+  csv: ^6.0.0
+  string_similarity: ^2.1.1
+  path_provider: ^2.1.2
+  path: ^1.8.3
+  lottie: ^3.3.1
+  flutter_launcher_icons: ^0.14.4
+  flutter_markdown: ^0.7.7+1
+  tab_container: ^3.5.3
+  food_icons: ^0.0.6
+  font_awesome_flutter: ^10.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.14.4"
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/protos.png"
+  adaptive_icon_foreground: "assets/icons/f_protos.png"
+  adaptive_icon_background: "assets/icons/b_protos.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/
+     - assets/icons/
+     - assets/protein/
+
+
